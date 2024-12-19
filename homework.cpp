@@ -31,7 +31,7 @@ int main()
         attempts = attempts + 1;
     }
 
-    std::cout << "Ur correct! " << attempts << " attempt(s)." << std::endl;
+    std::cout << "Ur correct! Took You: " << attempts << " attempt(s)." << std::endl;
 
     // Problem 3
     int numberCount;
